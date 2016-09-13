@@ -1,4 +1,4 @@
-# dataloopcookbook
+# dataloop-cookbook
 
 TODO: Enter the cookbook description here.
 

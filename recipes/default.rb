@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: dataloopcookbook
+# Cookbook Name:: dataloop-cookbook
 # Recipe:: default
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
