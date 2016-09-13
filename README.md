@@ -1,4 +1,4 @@
 # dataloop-cookbook
 
-TODO: Enter the cookbook description here.
+Instructions can be found [on github](https://github.com/dataloop/dataloop-chef)
 
